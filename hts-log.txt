@@ -1,0 +1,132 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 15 Mar 2020 11:24:37 at http://localhost/wordpress/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://localhost/wordpress/ -O1 "C:\My Web Sites\Midva Electronics" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:31:37	Error: 	"Method Not Allowed" (405) at link localhost/wordpress/xmlrpc.php (from localhost/wordpress/)
+11:48:11	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-content/themes/davinciwoo/assets/icons/font/davinciwoo-icons.woff2?37424478
+11:48:11	Error: 	"Not Found" (404) at link localhost/wordpress/wp-content/themes/davinciwoo/assets/images/mastercard.svg (from localhost/wordpress/wp-content/themes/davinciwoo/assets/css/davinciwoo-shop.min.css?ver=1.1.4)
+11:48:11	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-content/themes/davinciwoo/assets/icons/font/social-icons.woff2?45288975
+11:49:39	Warning: 	Moved Permanently for localhost/wordpress/?p=18
+11:49:39	Warning: 	File has moved from localhost/wordpress/?p=18 to http://localhost/wordpress/shipping-delivery/
+11:49:41	Warning: 	Moved Permanently for localhost/wordpress/?p=12
+11:49:41	Warning: 	File has moved from localhost/wordpress/?p=12 to http://localhost/wordpress/contact-us/
+11:49:49	Warning: 	Moved Permanently for localhost/wordpress/?p=20
+11:49:49	Warning: 	File has moved from localhost/wordpress/?p=20 to http://localhost/wordpress/track-your-order/
+11:49:53	Warning: 	Moved Permanently for localhost/wordpress/?p=14
+11:49:53	Warning: 	File has moved from localhost/wordpress/?p=14 to http://localhost/wordpress/my-account/
+11:49:55	Warning: 	Moved Permanently for localhost/wordpress/?p=21
+11:49:55	Warning: 	File has moved from localhost/wordpress/?p=21 to http://localhost/wordpress/my-account/wishlist/
+11:49:55	Warning: 	Moved Permanently for localhost/wordpress/?p=183
+11:49:55	Warning: 	File has moved from localhost/wordpress/?p=183 to http://localhost/wordpress/product/rufus-shoes/
+11:50:08	Warning: 	Moved Permanently for localhost/wordpress/?p=145
+11:50:08	Warning: 	File has moved from localhost/wordpress/?p=145 to http://localhost/wordpress/product/fashion-shirt/
+11:50:45	Warning: 	Moved Permanently for localhost/wordpress/?p=154
+11:50:45	Warning: 	File has moved from localhost/wordpress/?p=154 to http://localhost/wordpress/product/american-dress/
+11:51:03	Warning: 	Moved Permanently for localhost/wordpress/?p=179
+11:51:03	Warning: 	File has moved from localhost/wordpress/?p=179 to http://localhost/wordpress/product/best-design/
+11:51:05	Warning: 	Moved Permanently for localhost/wordpress/?p=158
+11:51:05	Warning: 	File has moved from localhost/wordpress/?p=158 to http://localhost/wordpress/product/quality-ninja-dress/
+11:51:08	Warning: 	Moved Permanently for localhost/wordpress/?p=160
+11:51:08	Warning: 	File has moved from localhost/wordpress/?p=160 to http://localhost/wordpress/product/fashion/
+11:51:19	Warning: 	Moved Permanently for localhost/wordpress/?p=187
+11:51:19	Warning: 	File has moved from localhost/wordpress/?p=187 to http://localhost/wordpress/product/nylon/
+11:51:22	Warning: 	Moved Permanently for localhost/wordpress/?p=165
+11:51:22	Warning: 	File has moved from localhost/wordpress/?p=165 to http://localhost/wordpress/product/asian-design/
+11:51:23	Warning: 	Moved Permanently for localhost/wordpress/?p=210
+11:51:23	Warning: 	File has moved from localhost/wordpress/?p=210 to http://localhost/wordpress/product/latest-fashion/
+11:51:26	Warning: 	Moved Permanently for localhost/wordpress/?p=167
+11:51:26	Warning: 	File has moved from localhost/wordpress/?p=167 to http://localhost/wordpress/product/karaoke/
+11:51:28	Warning: 	Moved Permanently for localhost/wordpress/?p=212
+11:51:28	Warning: 	File has moved from localhost/wordpress/?p=212 to http://localhost/wordpress/product/lenovo-thinkpad/
+11:51:35	Warning: 	Moved Permanently for localhost/wordpress/?p=169
+11:51:35	Warning: 	File has moved from localhost/wordpress/?p=169 to http://localhost/wordpress/product/pp-design/
+11:51:36	Warning: 	Moved Permanently for localhost/wordpress/?p=214
+11:51:36	Warning: 	File has moved from localhost/wordpress/?p=214 to http://localhost/wordpress/product/british-design/
+11:51:42	Warning: 	Moved Permanently for localhost/wordpress/?p=171
+11:51:42	Warning: 	File has moved from localhost/wordpress/?p=171 to http://localhost/wordpress/product/modern-dress/
+11:51:44	Warning: 	Moved Permanently for localhost/wordpress/?p=221
+11:51:44	Warning: 	File has moved from localhost/wordpress/?p=221 to http://localhost/wordpress/product/apple-macbook/
+11:51:47	Warning: 	Moved Permanently for localhost/wordpress/?p=173
+11:51:47	Warning: 	File has moved from localhost/wordpress/?p=173 to http://localhost/wordpress/product/latest-design/
+11:51:49	Warning: 	Moved Permanently for localhost/wordpress/?p=224
+11:51:49	Warning: 	File has moved from localhost/wordpress/?p=224 to http://localhost/wordpress/product/hp-15-notebook/
+11:51:57	Warning: 	Moved Permanently for localhost/wordpress/?p=223
+11:51:57	Warning: 	File has moved from localhost/wordpress/?p=223 to http://localhost/wordpress/product/hp-pavilion/
+11:51:58	Warning: 	Moved Permanently for localhost/wordpress/?p=181
+11:51:58	Warning: 	File has moved from localhost/wordpress/?p=181 to http://localhost/wordpress/product/black-shoes/
+11:52:00	Warning: 	Moved Permanently for localhost/wordpress/?p=177
+11:52:00	Warning: 	File has moved from localhost/wordpress/?p=177 to http://localhost/wordpress/product/nike/
+11:52:01	Warning: 	Moved Permanently for localhost/wordpress/?p=175
+11:52:01	Warning: 	File has moved from localhost/wordpress/?p=175 to http://localhost/wordpress/product/sport-shoes/
+11:52:02	Warning: 	Moved Permanently for localhost/wordpress/?p=156
+11:52:02	Warning: 	File has moved from localhost/wordpress/?p=156 to http://localhost/wordpress/product/popucine-dress-fashion/
+11:52:03	Warning: 	Moved Permanently for localhost/wordpress/?p=7
+11:52:03	Warning: 	File has moved from localhost/wordpress/?p=7 to http://localhost/wordpress/about-us/
+11:52:04	Warning: 	Moved Permanently for localhost/wordpress/?p=16
+11:52:04	Warning: 	File has moved from localhost/wordpress/?p=16 to http://localhost/wordpress/privacy-policy/
+11:52:04	Warning: 	Moved Permanently for localhost/wordpress/?p=19
+11:52:04	Warning: 	File has moved from localhost/wordpress/?p=19 to http://localhost/wordpress/terms-and-conditions/
+11:52:04	Warning: 	Moved Permanently for localhost/wordpress/?p=15
+11:52:04	Warning: 	File has moved from localhost/wordpress/?p=15 to http://localhost/wordpress/payment-methods/
+11:52:04	Warning: 	Moved Permanently for localhost/wordpress/?p=17
+11:52:04	Warning: 	File has moved from localhost/wordpress/?p=17 to http://localhost/wordpress/returns-policy/
+11:52:04	Warning: 	Moved Permanently for localhost/wordpress/?p=13
+11:52:04	Warning: 	File has moved from localhost/wordpress/?p=13 to http://localhost/wordpress/frequently-asked-questions/
+11:52:04	Warning: 	File not parsed, looks like binary: localhost/wordpress/wp-content/plugins/alids-social-tools/assets/font/social-icons.woff2?62545936
+11:53:28	Warning: 	Moved Permanently for localhost/wordpress/?p=147
+11:53:28	Warning: 	File has moved from localhost/wordpress/?p=147 to http://localhost/wordpress/product/cotton-shirt/
+11:55:41	Warning: 	Moved Permanently for localhost/wordpress/shop/page/1/
+11:55:41	Warning: 	File has moved from localhost/wordpress/shop/page/1/ to http://localhost/wordpress/shop/
+11:57:04	Warning: 	Moved Permanently for localhost/wordpress/shop/page/1/?add_to_wishlist=214
+11:57:04	Warning: 	File has moved from localhost/wordpress/shop/page/1/?add_to_wishlist=214 to http://localhost/wordpress/shop/?add_to_wishlist=214
+11:57:04	Warning: 	Moved Permanently for localhost/wordpress/shop/page/1/?add_to_wishlist=156
+11:57:04	Warning: 	File has moved from localhost/wordpress/shop/page/1/?add_to_wishlist=156 to http://localhost/wordpress/shop/?add_to_wishlist=156
+11:57:04	Warning: 	Moved Permanently for localhost/wordpress/shop/page/1/?add_to_wishlist=221
+11:57:04	Warning: 	File has moved from localhost/wordpress/shop/page/1/?add_to_wishlist=221 to http://localhost/wordpress/shop/?add_to_wishlist=221
+11:57:04	Warning: 	Moved Permanently for localhost/wordpress/shop/page/1/?add_to_wishlist=173
+11:57:04	Warning: 	File has moved from localhost/wordpress/shop/page/1/?add_to_wishlist=173 to http://localhost/wordpress/shop/?add_to_wishlist=173
+11:57:04	Warning: 	Moved Permanently for localhost/wordpress/shop/page/1/?add_to_wishlist=147
+11:57:04	Warning: 	File has moved from localhost/wordpress/shop/page/1/?add_to_wishlist=147 to http://localhost/wordpress/shop/?add_to_wishlist=147
+11:57:04	Warning: 	Moved Permanently for localhost/wordpress/shop/page/1/?add_to_wishlist=210
+11:57:04	Warning: 	File has moved from localhost/wordpress/shop/page/1/?add_to_wishlist=210 to http://localhost/wordpress/shop/?add_to_wishlist=210
+11:57:04	Warning: 	Moved Permanently for localhost/wordpress/shop/page/1/?add_to_wishlist=158
+11:57:04	Warning: 	File has moved from localhost/wordpress/shop/page/1/?add_to_wishlist=158 to http://localhost/wordpress/shop/?add_to_wishlist=158
+11:57:04	Warning: 	Moved Permanently for localhost/wordpress/shop/page/1/?add_to_wishlist=224
+11:57:04	Warning: 	File has moved from localhost/wordpress/shop/page/1/?add_to_wishlist=224 to http://localhost/wordpress/shop/?add_to_wishlist=224
+11:57:04	Warning: 	Moved Permanently for localhost/wordpress/shop/page/1/?add_to_wishlist=223
+11:57:04	Warning: 	File has moved from localhost/wordpress/shop/page/1/?add_to_wishlist=223 to http://localhost/wordpress/shop/?add_to_wishlist=223
+11:57:04	Warning: 	Moved Permanently for localhost/wordpress/shop/page/1/?add_to_wishlist=154
+11:57:04	Warning: 	File has moved from localhost/wordpress/shop/page/1/?add_to_wishlist=154 to http://localhost/wordpress/shop/?add_to_wishlist=154
+11:57:05	Warning: 	Moved Permanently for localhost/wordpress/shop/page/1/?add_to_wishlist=212
+11:57:05	Warning: 	File has moved from localhost/wordpress/shop/page/1/?add_to_wishlist=212 to http://localhost/wordpress/shop/?add_to_wishlist=212
+11:57:05	Warning: 	Moved Permanently for localhost/wordpress/shop/page/1/?add_to_wishlist=169
+11:57:05	Warning: 	File has moved from localhost/wordpress/shop/page/1/?add_to_wishlist=169 to http://localhost/wordpress/shop/?add_to_wishlist=169
+11:57:05	Warning: 	Moved Permanently for localhost/wordpress/shop/page/1/?add_to_wishlist=171
+11:57:05	Warning: 	File has moved from localhost/wordpress/shop/page/1/?add_to_wishlist=171 to http://localhost/wordpress/shop/?add_to_wishlist=171
+11:57:08	Warning: 	Moved Permanently for localhost/wordpress/shop/page/1/?add_to_wishlist=187
+11:57:08	Warning: 	File has moved from localhost/wordpress/shop/page/1/?add_to_wishlist=187 to http://localhost/wordpress/shop/?add_to_wishlist=187
+11:57:09	Warning: 	Moved Permanently for localhost/wordpress/shop/page/1/?add_to_wishlist=175
+11:57:09	Warning: 	File has moved from localhost/wordpress/shop/page/1/?add_to_wishlist=175 to http://localhost/wordpress/shop/?add_to_wishlist=175
+11:57:18	Warning: 	Moved Permanently for localhost/wordpress/shop/page/1/?add_to_wishlist=167
+11:57:18	Warning: 	File has moved from localhost/wordpress/shop/page/1/?add_to_wishlist=167 to http://localhost/wordpress/shop/?add_to_wishlist=167
+11:57:20	Warning: 	Moved Permanently for localhost/wordpress/shop/page/1/?add_to_wishlist=145
+11:57:20	Warning: 	File has moved from localhost/wordpress/shop/page/1/?add_to_wishlist=145 to http://localhost/wordpress/shop/?add_to_wishlist=145
+11:57:23	Warning: 	Moved Permanently for localhost/wordpress/shop/page/1/?add_to_wishlist=183
+11:57:23	Warning: 	File has moved from localhost/wordpress/shop/page/1/?add_to_wishlist=183 to http://localhost/wordpress/shop/?add_to_wishlist=183
+11:57:24	Warning: 	Moved Permanently for localhost/wordpress/shop/page/1/?add_to_wishlist=177
+11:57:24	Warning: 	File has moved from localhost/wordpress/shop/page/1/?add_to_wishlist=177 to http://localhost/wordpress/shop/?add_to_wishlist=177
+11:57:29	Warning: 	Moved Permanently for localhost/wordpress/shop/page/1/?add_to_wishlist=179
+11:57:29	Warning: 	File has moved from localhost/wordpress/shop/page/1/?add_to_wishlist=179 to http://localhost/wordpress/shop/?add_to_wishlist=179
+11:57:32	Warning: 	Moved Permanently for localhost/wordpress/shop/page/1/?add_to_wishlist=181
+11:57:32	Warning: 	File has moved from localhost/wordpress/shop/page/1/?add_to_wishlist=181 to http://localhost/wordpress/shop/?add_to_wishlist=181
+11:57:39	Warning: 	Moved Permanently for localhost/wordpress/shop/page/1/?add_to_wishlist=160
+11:57:39	Warning: 	File has moved from localhost/wordpress/shop/page/1/?add_to_wishlist=160 to http://localhost/wordpress/shop/?add_to_wishlist=160
+11:57:40	Warning: 	Moved Permanently for localhost/wordpress/shop/page/1/?add_to_wishlist=165
+11:57:40	Warning: 	File has moved from localhost/wordpress/shop/page/1/?add_to_wishlist=165 to http://localhost/wordpress/shop/?add_to_wishlist=165
+
+HTTrack Website Copier/3.49-2 mirror complete in 34 minutes 17 seconds : 733 links scanned, 672 files written (46252993 bytes overall) [46825541 bytes received at 22763 bytes/sec], 30858 bytes transferred using HTTP compression in 1 files, ratio 38%, 1.3 requests per connection
+(2 errors, 119 warnings, 0 messages)

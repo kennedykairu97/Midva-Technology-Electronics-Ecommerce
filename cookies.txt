@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+localhost	TRUE	/wordpress/	FALSE	1999999999	yith_wcwl_products	%5B%7B%22prod_id%22%3A%22210%22%2C%22quantity%22%3A1%2C%22wishlist_id%22%3Afalse%2C%22dateadded%22%3A%222020-03-15+08%3A58%3A10%22%7D%2C%7B%22prod_id%22%3A%22212%22%2C%22quantity%22%3A1%2C%22wishlist_id%22%3Afalse%2C%22dateadded%22%3A%222020-03-15+08%3A58%3A16%22%7D%2C%7B%22prod_id%22%3A%22187%22%2C%22quantity%22%3A1%2C%22wishlist_id%22%3Afalse%2C%22dateadded%22%3A%222020-03-15+08%3A58%3A22%22%7D%2C%7B%22prod_id%22%3A%22145%22%2C%22quantity%22%3A1%2C%22wishlist_id%22%3Afalse%2C%22dateadded%22%3A%222020-03-15+08%3A58%3A32%22%7D%2C%7B%22prod_id%22%3A%22147%22%2C%22quantity%22%3A1%2C%22wishlist_id%22%3Afalse%2C%22dateadded%22%3A%222020-03-15+08%3A58%3A37%22%7D%2C%7B%22prod_id%22%3A%22183%22%2C%22quantity%22%3A1%2C%22wishlist_id%22%3Afalse%2C%22dateadded%22%3A%222020-03-15+08%3A58%3A46%22%7D%5D
+localhost	TRUE	/wordpress/	FALSE	1999999999	woocommerce_recently_viewed	160%7C214%7C171%7C221%7C173%7C224%7C179%7C158%7C187%7C210%7C212%7C145%7C147%7C183%7C156
+localhost	TRUE	/	FALSE	1999999999	mailchimp_landing_site	http%3A%2F%2Flocalhost%2Fwordpress%2Fwordpress%2Fwp-content%2Fthemes%2Fdavinciwoo%2Fassets%2Fimages%2Fmastercard.svg
+.17track.net	TRUE	/	FALSE	1999999999	__cfduid	da79b936fb4449150b0c5a40cc21f03581584261184
+www.17track.net	TRUE	/	FALSE	1999999999	SameSite	Lax
+
